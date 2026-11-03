@@ -4,4 +4,7 @@ This repository contains my academic thesis, which explores the application of L
 ---
 Note
 ---
-Thesis is written in Greek but you can read the abstract which is written in English :)
+Thesis is written in Greek but you can read the abstract which is written in English.
+\
+\
+Please do not hesitate to reach out should you require any further information regarding my thesis.
