@@ -3,4 +3,5 @@ This repository contains my academic thesis, which explores the application of L
 
 ---
 Note
+---
 Thesis is written in greek!
